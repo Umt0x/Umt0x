@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://cdn3.emoji.gg/emojis/90276-kittypaw20.gif" width="30px">
+ <br><br>
+  <samp>
+    Hi there, I'm  Umut <br>
+    Trying to learn new things. <br>
+  </samp>
+  <img src="https://cdn3.emoji.gg/emojis/60494-kittypaw06.gif" width="30px">
+</p>
+<div align="center">
+<img width="50%"> <img width="80%" src="https://awesome-github-stats.azurewebsites.net/user-stats/Umut0x?cardType=github&theme=dark&preferLogin=false&Ring=DDDDDD&Text=DDDDDD&Background=12030300&Title=DDDDDD&Border=DD272700">
 
-<!--
-**Umt0x/Umt0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>

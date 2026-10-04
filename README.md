@@ -44,5 +44,5 @@
 
 <div>
  <img width="50%" align="left" src="https://odo.umt0x.workers.dev/spotify?style=terminal"/>
-<img  align="right" width="40%" src="https://odo.umt0x.workers.dev/@umt0x?theme=first-ten&length=7"> 
+<img  align="right" width="45%" src="https://odo.umt0x.workers.dev/@umt0x?theme=first-ten&length=7"> 
 </div>

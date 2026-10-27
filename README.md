@@ -17,7 +17,7 @@
 
 <samp>
 • Let me introduce myself, I'm Umut. I am 19 y/o.<br /><br />
-• My <a href="https://umut.umt0x.workers.dev/">Website</a>
+• My <a href="">Website</a>
 </samp>
 
 ## Projects

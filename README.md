@@ -24,7 +24,6 @@
 
 <samp>
 • <a href="https://github.com/Umt0x/Odo"><b>Odo</b></a> — Visitor counter badges & a Spotify now-playing card for GitHub profiles, running on Cloudflare Workers. <a href="https://odo.umt0x.workers.dev">Try it →</a><br /><br />
-• <a href="https://github.com/Umt0x/Wave"><b>Wave</b></a> — My personal website, built with Astro & TypeScript, served from Cloudflare Workers. <a href="https://umut.umt0x.workers.dev">Visit →</a>
 </samp>
 
 ## Technologies I use
